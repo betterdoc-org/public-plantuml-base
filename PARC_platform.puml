@@ -1,4 +1,4 @@
-!include PARC_base.puml
+!include https://raw.githubusercontent.com/betterdoc-org/public-plantuml-base/main/PARC_base.puml
 
 ' Scope: A single software system.
 ' Primary elements: The software system in scope.
