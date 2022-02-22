@@ -1,4 +1,4 @@
-!include PARC_platform.puml
+!include https://raw.githubusercontent.com/betterdoc-org/public-plantuml-base/main/PARC_platform.puml
 
 ' System Level Diagram base
 
